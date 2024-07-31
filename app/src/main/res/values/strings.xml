@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">State</string>
+    <string name="school_icon">School icon</string>
+    <string name="student_icon">Student Icon</string>
+    <string name="teacher_icon">Teacher Icon</string>
+    <string name="book_icon">Book Icon</string>
+
+    <string name="school_icon_desc">Microsoft</string>
+    <string name="student_icon_desc">Amazon</string>
+    <string name="teacher_icon_desc">Google</string>
+    <string name="book_icon_desc">Oracle</string>
+</resources>
